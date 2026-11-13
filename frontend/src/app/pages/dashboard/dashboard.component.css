@@ -1,0 +1,36 @@
+/* dashboard.component.css */
+
+.dashboard__content {
+    padding: 20px;
+}
+
+#student-list {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1.5rem;
+    font-size: 0.95rem;
+}
+
+#student-list th,
+#student-list td {
+    padding: 12px 16px;
+    text-align: left;
+}
+
+#student-list th {
+    background-color: #1e3a8a;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+#student-list tbody td {
+    color: #111827;
+}
+
+#student-list tbody tr:nth-child(even) {
+    background-color: #f3f4f6;
+}
+
+#student-list tbody tr:hover {
+    background-color: #e5e7eb;
+}

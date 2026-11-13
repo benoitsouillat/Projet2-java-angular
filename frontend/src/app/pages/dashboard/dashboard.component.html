@@ -1,0 +1,87 @@
+<div class="dashboard">
+    <div class="dashboard__header">
+        <h1 class="dashboard__title text-center">Tableau de bord - Gestion des étudiants</h1>
+    </div>
+    <div class="dashboard__content">
+        @if (view === "list") {
+            <div style="display: flex; justify-content: space-between;">
+                <h2>Liste des étudiants</h2>
+                <button (click)="addStudent()">Ajouter un étudiant</button>
+            </div>
+            <table id="student-list">
+                <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Nom</th>
+                    <th>Prénom</th>
+                    <th>Email</th>
+                    <th>Dernière modification</th>
+                    <th>Actions</th>
+                </tr>
+                </thead>
+                <tbody>
+                    @for (student of students; track student.id) {
+                        <tr>
+                            <td>{{ student.id }}</td>
+                            <td>{{ student.lastName }}</td>
+                            <td>{{ student.firstName }}</td>
+                            <td>{{ student.login }}</td>
+                            <td>{{ student.updatedAt }}</td>
+                            <td>
+                                <button (click)="editStudent(student)">Modifier</button>
+                                <button (click)="deleteStudent(student.id)">Supprimer</button>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+        }
+        @else if (view === "form") {
+            <div style="display: flex; justify-content: space-between;">
+                <h2>{{ action === 'add' ? 'Ajouter un étudiant' : 'Mettre à jour ' + studentForm.value.firstName + ' ' + studentForm.value.lastName }}</h2>
+                <button (click)="getListStudent()">Voir la liste des étudiants</button>
+            </div>
+            <form [formGroup]="studentForm" (ngSubmit)="onSubmit()">
+                <div class="form-group">
+                    <label for="lastName">Nom</label>
+                    <input
+                            type="text"
+                            formControlName="lastName"
+                            class="form-control"
+                            [ngClass]="{ 'is-invalid': submitted && form['lastName'].errors }"
+                    />
+                </div>
+                <div class="form-group">
+                    <label for="firstName">Prénom</label>
+                    <input
+                            type="text"
+                            id="firstName"
+                            formControlName="firstName"
+                            class="form-control"
+                            [ngClass]="{ 'is-invalid': submitted && form['firstName'].errors }"
+                    />
+                </div>
+                <div class="form-group">
+                    <label for="login">Email</label>
+                    <input
+                            type="email"
+                            id="login"
+                            formControlName="login"
+                            class="form-control"
+                            [ngClass]="{ 'is-invalid': submitted && form['login'].errors }"
+                    />
+                </div>
+                <button type="submit" class="btn btn-primary">{{ action === 'add' ? 'Ajouter' : 'Mettre à jour' }}</button>
+            </form>
+        }
+        @else {
+            <div class="view-list">
+                <button (click)="getListStudent()">Voir la liste des étudiants</button>
+            </div>
+            <div class="view-add">
+                <button (click)="addStudent()">Ajouter un étudiant</button>
+            </div>
+        }
+    </div>
+</div>
