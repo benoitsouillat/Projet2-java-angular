@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackgroundAgentGlobalSettings">
+    <option name="selectedModelId" value="auto" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90826bfc-52fc-4ccb-9e1d-c6d16c73a859" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/backend/src/test/java/com/openclassrooms/etudiant/controller/StudentControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/test/java/com/openclassrooms/etudiant/controller/StudentControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_D:/Dev/2.Openclassrooms_Architecte_Parcours/Projet 2" value="3KS7MWHONWrzgUwkPWeNIiMOvT2" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="197" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000000001506659" />
+      <entry key="S2" value="1.0062302250803241" />
+      <entry key="S5" value="1.1311601781607799" />
+      <entry key="S10" value="1.3625718604174542" />
+      <entry key="S30" value="1.8282678060641606" />
+      <entry key="S60" value="2.6484572838087317" />
+      <entry key="M2" value="4.884067936360126" />
+      <entry key="M5" value="9.517600389756108" />
+      <entry key="M10" value="13.771517084213164" />
+      <entry key="M15" value="16.9986977357216" />
+      <entry key="M30" value="23.994412611960485" />
+      <entry key="H1" value="34.72278887912072" />
+      <entry key="H2" value="67.56455021438651" />
+      <entry key="H4" value="165.07800866248942" />
+      <entry key="D1" value="570.8166110441737" />
+      <entry key="W1" value="737.0959434333722" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.2646098526746601E-46" />
+      <entry key="MS500" value="6.621087032152409E-10" />
+      <entry key="S2" value="0.006022554998711451" />
+      <entry key="S5" value="0.18264580778818643" />
+      <entry key="S10" value="0.5962555401912495" />
+      <entry key="S30" value="1.3319527099434318" />
+      <entry key="S60" value="1.63151401983571" />
+      <entry key="M2" value="1.8072519801135598" />
+      <entry key="M5" value="2.0357149731699895" />
+      <entry key="M10" value="2.6485136994177605" />
+      <entry key="M15" value="3.3882477285497803" />
+      <entry key="M30" value="5.34013543259383" />
+      <entry key="H1" value="8.69409979371138" />
+      <entry key="H2" value="17.74383390604238" />
+      <entry key="H4" value="39.11397566261258" />
+      <entry key="D1" value="116.47152718345107" />
+      <entry key="W1" value="146.99374719781068" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.2122711125940373E-4" />
+      <entry key="MS500" value="0.16470999482258616" />
+      <entry key="S2" value="0.6460579440986804" />
+      <entry key="S5" value="1.0983000886496905" />
+      <entry key="S10" value="1.778257070709009" />
+      <entry key="S30" value="3.0486491004249534" />
+      <entry key="S60" value="4.204133415636612" />
+      <entry key="M2" value="6.637961318226591" />
+      <entry key="M5" value="11.521095886817939" />
+      <entry key="M10" value="16.397514863421787" />
+      <entry key="M15" value="20.36810767032419" />
+      <entry key="M30" value="29.320934882680596" />
+      <entry key="H1" value="43.406944080758564" />
+      <entry key="H2" value="85.2987455322618" />
+      <entry key="H4" value="204.18077077458514" />
+      <entry key="D1" value="687.2820761193967" />
+      <entry key="W1" value="884.0885831622542" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JUbL11VIevWIe9IwqWe1F4PXb4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="ensembleEnabled" value="false" />
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Dev/2.Openclassrooms_Architecte_Parcours/Projet 2/frontend/src/app/core/DTO/Student",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2025.2.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dev\2.Openclassrooms_Architecte_Parcours\Projet 2\frontend\src\app\core\DTO\Student" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Dev\2.Openclassrooms_Architecte_Parcours\Projet 2\frontend\src\app\core\service" />
+      <recent name="D:\Dev\2.Openclassrooms_Architecte_Parcours\Projet 2\frontend\src\app\includes" />
+      <recent name="D:\Dev\2.Openclassrooms_Architecte_Parcours\Projet 2\frontend\src\app\pages" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.11879.105" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90826bfc-52fc-4ccb-9e1d-c6d16c73a859" name="Changes" comment="" />
+      <created>1789718536260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789718536260</updated>
+      <workItem from="1789718537294" duration="580000" />
+      <workItem from="1789719157278" duration="242000" />
+      <workItem from="1789719411676" duration="813000" />
+      <workItem from="1789720262503" duration="5321000" />
+      <workItem from="1789727169229" duration="271000" />
+      <workItem from="1789735348058" duration="5051000" />
+      <workItem from="1790326089124" duration="7697000" />
+      <workItem from="1790938437967" duration="10661000" />
+      <workItem from="1791533252844" duration="25582000" />
+      <workItem from="1792076678903" duration="2808000" />
+      <workItem from="1792741357492" duration="104000" />
+      <workItem from="1792741479722" duration="3200000" />
+      <workItem from="1793354403629" duration="309000" />
+      <workItem from="1793357384164" duration="7607000" />
+      <workItem from="1793954718946" duration="802000" />
+      <workItem from="1793957584001" duration="16433000" />
+      <workItem from="1794398455462" duration="5379000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
